@@ -1,19 +1,12 @@
 /*
 ===================================================================================================
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█   █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█   █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█   █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
+ █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█  
+ █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█   
+ ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█   
  
- █▀▀█ ░ █▀▀█ ░ █▀▀█ ░░ █░░▒█
- ░░▀▄ ░ █▄▀█ ░ █▄▀█ ▀▀ ▒█▒█░
- █▄▄█ █ █▄▄█ █ █▄▄█ ░░ ░▀▄▀░
+ █
+ 𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 sohan
  
- 𝑶𝒘𝒏𝒆𝒓 : 𝑴𝒓 𝑵𝒊𝒎𝒂
- 𝑯𝒆𝒍𝒑𝒆𝒓𝒔 : 
- • 𝑷𝒂𝒔𝒊𝒅𝒖
- • 𝑻𝒉𝒊𝒏𝒖𝒓𝒂 
- • 𝑻𝒉𝒂𝒔𝒉𝒊
- • 𝑰𝒔𝒖𝒓𝒖
 
 𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝑿𝒆𝒐𝒏 𝑭𝒐𝒓 𝒔𝒄𝒓𝒊𝒑𝒕 .
 ===================================================================================================
@@ -54,27 +47,27 @@ global.BOT_OFFLINE = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94725114153'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '©⎝ 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙷𝙸𝚁𝚄 𝙰𝙽𝙳 𝚂𝙾𝙷𝙰𝙽⎠²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '𝙌𝙐𝙀𝙀𝙉 𝙃𝙄𝙍𝙐@𝙎𝙊𝙃𝘼𝙉 𝘽𝙊𝙏𝙕 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝑴𝒓 𝙨𝙤𝙝𝙖𝙣' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗛𝗜𝗥𝗨 𝗔𝗡𝗗 𝗦𝗢𝗛𝗔𝗡' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '𝙼𝚁 𝚂𝙾𝙷𝙰𝙽' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '``🥰 Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '🥰|🌹'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
@@ -84,7 +77,7 @@ global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/Queen-hirusohan-03-06`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
 //👇 Welcome Mesaage
@@ -111,9 +104,9 @@ global.IMG_BLOCKER = ["xxx","sex","mia"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.pemilik = ['94725114153'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94725114153'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Hiru@Sohan' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -152,9 +145,9 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-global.thumb = fs.readFileSync('./Media/image/Elisa.jpg')
+global.thumb = fs.readFileSync('./Media/image/queenhiruandsohan.jpg')
 global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
-global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
+global.imgalive = fs.readFileSync('./Media/image/queenhiruandsohan.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
