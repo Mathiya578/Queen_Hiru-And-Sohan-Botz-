@@ -79,8 +79,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
-cd Queen-Elisa-Md-V2
+git clone https://github.com/Mathiya578/Queen_Hiru-And-Sohan-Botz-
+cd Queen_Hiru-And-Sohan-Botz-
 npm install
 npm start
 ```
